@@ -2,5 +2,6 @@
 Am realizat proiectul GraphEditor folosind tehnologia SWING. 
 Acesta este un editor pentru grafuri, care permite exportarea in diferite formate: PNG, PDF, SVG.
 De asemenea, editorul are optiunea de a vizualiza o animatie cu algoritmii DFS si BFS pe graful creat.
-Aplicatia poate desena automat un arbore max-heap.
+Aplicatia poate desena automat un arbore max-heap.<br>
+Mod de utilizare:<br>
 
