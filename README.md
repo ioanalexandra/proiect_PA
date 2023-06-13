@@ -1,4 +1,4 @@
-# proiect_PA
+## proiect_PA
 Am realizat proiectul GraphEditor folosind tehnologia SWING si biblioteca Batik. 
 Acesta este un editor pentru grafuri, care permite exportarea in diferite formate: PNG, PDF, SVG.
 De asemenea, editorul are optiunea de a vizualiza o animatie cu algoritmii DFS si BFS pe graful creat.
